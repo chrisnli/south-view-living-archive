@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#242722">
+  <meta name="description" content="Explore three moments in Black history through the lives and legacies featured by Historic South-View.">
+  <title>South-View — A Living Archive</title>
+  <link rel="stylesheet" href="styles.css"><script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#events">Skip to the stories</a>
+<header class="header">
+  <a href="#home" class="brand" aria-label="South-View, home"><span class="seal" aria-hidden="true">S<span>V</span></span><span>SOUTH-VIEW<small>A LIVING ARCHIVE</small></span></a>
+  <nav aria-label="Main navigation"><a href="#events">Explore events</a><a href="#people">The people</a><a href="#about">About the project</a></nav>
+  <button class="text-button saved-nav" id="saved-button"><span aria-hidden="true">◇</span> Saved stories <span id="saved-count">0</span></button>
+</header>
+<main id="home">
+  <section class="hero wrap" aria-labelledby="hero-title">
+    <div class="hero-copy"><p class="eyebrow"><span class="dot"></span> ATLANTA, GEORGIA · EST. 1886</p>
+      <h1 id="hero-title">History happened.<br><em>People lived it.</em></h1>
+      <p class="lede">Behind every moment is a life. Discover the people, the communities, and the legacies that make South-View a living archive of Atlanta’s Black history.</p>
+      <a class="button primary" href="#events">Explore the stories <span aria-hidden="true">↗</span></a>
+      <p class="hero-note">Three moments. Generations of stories.</p>
+    </div>
+    <div class="archive-collage" aria-label="Portraits from the South-View archive">
+      <div class="orbit" aria-hidden="true"></div><span class="archive-stamp" aria-hidden="true">LIVES REMEMBERED<br>LEGACIES CONTINUED</span>
+      <button class="photo photo-main" data-person="alonzo" aria-label="Read Alonzo Herndon's story"><img src="assets/alonzo.jpg" alt="Alonzo Herndon" fetchpriority="high"><span>Alonzo Herndon<small>ENTREPRENEUR & COMMUNITY BUILDER</small></span></button>
+      <button class="photo photo-small" data-person="bowen" aria-label="Read John W. E. Bowen's story"><img src="assets/bowen.jpg" alt="John W. E. Bowen"><span>John W. E. Bowen</span></button>
+      <button class="photo photo-front" data-person="jean" aria-label="Read Jean Childs Young's story"><img src="assets/jean.jpg" alt="Jean Childs Young"><span>Jean Childs Young<small>EDUCATOR & CHILDREN’S ADVOCATE</small></span></button>
+      <span class="handwritten" aria-hidden="true">More than a name.<svg viewBox="0 0 100 55"><path d="M3 2q60 0 70 38m-15-5 15 5 0-16"/></svg></span>
+    </div>
+  </section>
+  <div class="intro-line wrap"><span>AN INVITATION TO LOOK CLOSER</span><p>Start with a moment in history.<br>Find the people who help us understand it.</p><span class="down-arrow" aria-hidden="true">↓</span></div>
+  <section class="events-section wrap" id="events" aria-labelledby="events-heading">
+    <div class="section-heading"><div><p class="eyebrow">01 / THE MOMENTS</p><h2 id="events-heading">Three paths into the past.</h2></div><span class="section-note">Choose an event to begin.</span></div>
+    <div class="event-tabs" role="tablist" aria-label="Historical events" id="event-tabs"></div>
+    <div id="event-panel" role="tabpanel" tabindex="-1"></div>
+  </section>
+  <section class="people-section wrap" id="people" aria-labelledby="people-heading">
+    <div class="section-heading"><div><p class="eyebrow">02 / THE LIVES</p><h2 id="people-heading">Meet the people.</h2></div><p class="section-note">A life is always larger<br>than a single moment.</p></div>
+    <div class="directory-tools"><label class="search-box"><span aria-hidden="true">⌕</span><input id="people-search" type="search" placeholder="Search a name or a legacy…" aria-label="Search people"></label><div class="filters" role="group" aria-label="Filter people by event"><button class="filter active" data-filter="all" aria-pressed="true">All lives</button><button class="filter" data-filter="juneteenth" aria-pressed="false">Freedom</button><button class="filter" data-filter="massacre" aria-pressed="false">1906</button><button class="filter" data-filter="children" aria-pressed="false">Care & community</button></div></div>
+    <p class="sr-only" id="search-status" aria-live="polite"></p><div class="people-grid" id="people-grid"></div>
+    <a class="external-link" href="https://www.southviewpreservation.com/historyintheneighborhood" target="_blank" rel="noopener">Explore the full South-View neighborhood archive <span aria-hidden="true">↗</span></a>
+  </section>
+  <section class="about-section" id="about"><div class="wrap about-grid"><div><p class="eyebrow">03 / THE LIVING ARCHIVE</p><h2>History is held<br>by a community.</h2><p>Work, family, faith, education. The things that make a life are the things that make a community. This project brings those connections into view, one story at a time.</p><button class="button outline" id="share-button">Share a memory <span aria-hidden="true">↗</span></button></div><div class="about-right"><span class="large-star" aria-hidden="true">✳</span><h3>Speaking with.<br>Remembering together.</h3><p>This student concept demo follows the white paper’s vision for South-View and the Praise House Project. Biographies come from the neighborhood archive; historical context is linked to its sources.</p><p>Event connections are labeled as documented history or thematic context. Family memories, interviews, and additional stories can grow the archive through community review.</p><button class="text-button" id="sources-button">Sources & editorial notes <span aria-hidden="true">↗</span></button><span class="demo-label">STUDENT CONCEPT DEMO · OCTOBER 2026</span></div></div></section>
+</main>
+<footer class="wrap"><a href="#home" class="footer-brand">SOUTH-VIEW <small>A LIVING ARCHIVE</small></a><p>Lives remembered. Legacies continued.</p><a href="https://www.southviewpreservation.com" target="_blank" rel="noopener">Visit Historic South-View ↗</a></footer>
+<dialog id="story-dialog" class="story-dialog" aria-labelledby="story-title"><button class="close-dialog" aria-label="Close story">×</button><div id="story-content"></div></dialog>
+<dialog id="info-dialog" class="info-dialog" aria-labelledby="info-title"><button class="close-dialog" aria-label="Close panel">×</button><div id="info-content"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+</body></html>
