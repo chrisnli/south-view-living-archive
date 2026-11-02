@@ -14,7 +14,11 @@ Open http://localhost:4173/. There is no backend service or dependency installat
 
 Live site: https://chrisnli.github.io/south-view-living-archive/
 
-GitHub Pages serves the root of the `gh-pages` branch, published from `dist/` on `lauren`. After committing future site changes, run `git push github lauren`, then `git subtree push --prefix dist github gh-pages` to update the live site.
+Every push to `lauren` automatically runs the **Publish South-View website** workflow. It validates `dist/content.json`, regenerates `dist/data.js`, checks the browser JavaScript, and deploys only `dist/` to GitHub Pages. If validation fails, the current public website stays online.
+
+After checking changes locally and committing them, run `git push github lauren`. No separate subtree push or update to `gh-pages` is needed. The original checkout calls the remote `github`; another clone may use `origin` or `website` instead.
+
+Check [Actions](https://github.com/chrisnli/south-view-living-archive/actions) for a successful **Publish South-View website** run, then refresh the live site. The repository's Pages source must be **GitHub Actions**, and the `github-pages` environment must allow deployments from `lauren`. The old `gh-pages` branch is retained as history and is no longer the publishing source.
 
 ## Maintain the content
 
