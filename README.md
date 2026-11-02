@@ -1,15 +1,33 @@
-# South-View: Stories That Shape Atlanta — 1906 section
+# South-View: Stories That Shape Atlanta
 
-## How to run
-Unzip, open `south-view-redesigned/index.html` in Chrome or Safari. No installation needed. In VS Code you can use Live Server, or run `python3 -m http.server 8000` inside the folder and open http://localhost:8000.
+Three navigable history chapters: the 1906 Atlanta Race Massacre, Atlanta Child Murders, and Civil Rights Movement. The archive contains 25 individual profiles.
 
-## Scope
-Homepage overview and event cards; complete 1906 Atlanta Race Massacre event page; six individual stories (five victims and Alonzo Herndon as a non-victim historical context profile); About page. Atlanta Child Murders and Civil Rights Movement cards are deliberately marked **Coming soon** for teammates.
+## Run locally
 
-## Research and publication notes
-- D. L. Henderson, *South-View: An African American City of the Dead* (2018), pp. 5–6: South-View burials for George Wilder and Frank Smith, plus Herndon.
-- Marshall Carter and Stinson Ferguson burial information is attributed to massacre historical research; original cemetery registers have not been personally inspected in this project.
-- Annie Shepard's burial is attributed to the PBS documentary described in the team's research. Verify documentary title and episode citation before public launch.
-- Every final person entry needs at least three credible sources, per course requirements; current links are research leads and not a claim that each entry meets the three-source threshold.
-- Confirm image licensing/credits for reused photographs and obtain partner approval before publishing.
-- Student project; not an official South-View Cemetery website.
+From the repository root:
+
+```sh
+python -m http.server 4173 --bind 127.0.0.1 --directory dist
+```
+
+Open http://localhost:4173/. No backend or dependency installation is required.
+
+## Edit the archive
+
+Edit `dist/content.json`, then run `node scripts/build-data.mjs`. The script checks event/profile relationships, group coverage, required profile content, portrait and visual-archive files, contextual image selections, and source URL protocols before regenerating `dist/data.js`. The page loads this generated file without requiring a build server.
+
+## Visuals and interaction
+
+`experience.js` maintains the shared SVG landscape, slow background parallax, scroll reveals, reading progress, and circular page/story/image transitions. `app.js` renders the interactive homepage portrait collage, event-specific archival imagery, an original remembrance illustration, named people constellations, and native story dialogs. Every point is a keyboard-operable button; Escape and the close control restore focus. Story panels include previous/next controls and a link to the complete sourced biography. A list view is also available.
+
+Each event has a three-image visual archive with captions, dates, credits, and source links. Select an image to open an uncropped viewer; use its previous/next buttons or Left/Right arrow keys to browse. Complete biographies include a contextual image from their chapter. The 1906 page adds Library of Congress photographs of early Peachtree Street and First Congregational Church members. These show the surrounding city and community, not the attacks themselves.
+
+The header's Motion switch follows the device's reduced-motion preference by default. An explicit choice overrides it for the current browser tab/session. With motion off, the content and controls remain available without animated effects. View Transitions have a simpler fallback for browsers without that API. No animation library or additional build step is required.
+
+## Research and attribution
+
+The new chapters include seven victim remembrances, two contextual education profiles, and ten civil-rights and educational/professional equality profiles. Each new profile has its own sources and cemetery-connection explanation. The child victim burial list is explicitly attributed to secondary cemetery references; individual registers have not been inspected. Personal details are kept limited to sourced material. No guilt finding is claimed beyond the two adult-murder convictions.
+
+Jean Childs Young and Carolyn Dunbar Yancey are broader education context, not identified as victims or crisis responders. Benjamin Mays is a former South-View burial; his remains were reinterred at Morehouse. Existing archive portraits retain foundation-supplied credits; initials are used without a verified portrait. No generated victim portraits are used.
+
+Each event presents its people in one combined constellation. The 1906 chapter includes five victims alongside Alonzo Herndon, who survived and whose business was targeted; individual profiles explain these distinct connections. Expanded profiles cite the National Center for Civil and Human Rights, its WABE/PBS documentary, and biographical references. The profiles distinguish museum-reported records, documentary testimony, and unresolved details; this project has not independently inspected cemetery registers or original death records. This is a student concept, not an official cemetery website. Original image rights remain with their holders.

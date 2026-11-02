@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="740" viewBox="0 0 600 740" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="600" y2="740" gradientUnits="userSpaceOnUse"><stop stop-color="#f8f3e8"/><stop offset="1" stop-color="#cbd8bc"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ead4a9" stop-opacity=".95"/><stop offset="1" stop-color="#ead4a9" stop-opacity="0"/></radialGradient>
+    <linearGradient id="flame" x1="280" y1="250" x2="330" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#d9b77f"/><stop offset="1" stop-color="#995f60"/></linearGradient>
+    <linearGradient id="candle" x1="252" y1="0" x2="348" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#c4cdb4"/><stop offset=".5" stop-color="#f8f4e8"/><stop offset="1" stop-color="#d3d9bf"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h600v740H0z"/>
+  <circle cx="300" cy="330" r="215" fill="url(#glow)"/>
+  <g stroke="#6d8261" stroke-opacity=".24" stroke-width=".8">
+    <circle cx="300" cy="330" r="172"/><circle cx="300" cy="330" r="195"/><circle cx="300" cy="330" r="218"/>
+    <ellipse cx="300" cy="330" rx="210" ry="110" transform="rotate(-42 300 330)"/>
+    <ellipse cx="300" cy="330" rx="210" ry="110" transform="rotate(42 300 330)"/>
+  </g>
+  <path d="M-60 646c217-133 224 57 428-24s180-128 292-99" stroke="#738465" stroke-opacity=".5"/>
+  <path d="M-60 659c217-133 224 57 428-24s180-128 292-99" stroke="#738465" stroke-opacity=".3"/>
+  <path d="M-60 672c217-133 224 57 428-24s180-128 292-99" stroke="#738465" stroke-opacity=".2"/>
+  <ellipse cx="300" cy="565" rx="116" ry="13" fill="#203e34" fill-opacity=".08"/>
+  <rect x="251" y="432" width="98" height="124" rx="7" fill="url(#candle)" stroke="#aab59a" stroke-width=".8"/>
+  <ellipse cx="300" cy="433" rx="49" ry="10" fill="#eee9d7" stroke="#aab59a" stroke-width=".8"/>
+  <path d="M300 433v-26" stroke="#6f7155" stroke-width="2"/>
+  <path d="M300 405c-65-32-49-83-20-118 21-26 22-43 19-68 50 62 80 139 1 186Z" fill="url(#flame)"/>
+  <path d="M300 398c-27-20-19-43 2-72 16 28 29 51-2 72Z" fill="#f6e6b8"/>
+  <g fill="#925469" stroke="#f8f3e8" stroke-width="4">
+    <circle cx="130" cy="210" r="6"/><circle cx="300" cy="113" r="5"/><circle cx="470" cy="211" r="6"/>
+    <circle cx="89" cy="358" r="5"/><circle cx="511" cy="358" r="5"/><circle cx="159" cy="487" r="6"/><circle cx="444" cy="487" r="6"/>
+  </g>
+  <path d="m300 66 2 7 7 2-7 2-2 7-2-7-7-2 7-2Z" fill="#925469" fill-opacity=".6"/>
+  <text x="300" y="655" text-anchor="middle" fill="#42623d" font-family="Arial,sans-serif" font-size="10" letter-spacing="5">IN REMEMBRANCE</text>
+  <text x="300" y="694" text-anchor="middle" fill="#203e34" font-family="Georgia,serif" font-size="26" letter-spacing="2">1979 — 1981</text>
+</svg>

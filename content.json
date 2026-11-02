@@ -3,8 +3,8 @@
     {
       "id": "massacre",
       "title": "1906 Atlanta Race Massacre",
-      "date": "1906",
-      "subtitle": "The people, the violence, and the lives behind the headlines",
+      "date": "September 22–24, 1906",
+      "subtitle": "A city’s promise, a community under attack, and the lives we continue to remember",
       "intro": "From September 22 to 24, 1906, white mobs attacked Black Atlantans, killing residents and destroying businesses. False and sensationalized newspaper reporting, racial resentment, and political tensions helped fuel the violence. This archive follows individuals connected to South-View Cemetery: people killed in the attacks, and a business leader whose livelihood was targeted. Their lives deserve to be understood beyond the massacre itself.",
       "people": [
         "georgeunionwilder",
@@ -16,64 +16,404 @@
       ],
       "sources": [
         {
-          "name": "D. L. Henderson, South-View: An African American City of the Dead (2018), pp. 5–6 (uploaded research book)",
-          "url": ""
-        },
-        {
-          "name": "1906 Atlanta Race Massacre remembrance project — history and legacy",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "name": "National Center for Civil and Human Rights — A brief history of the massacre",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
         },
         {
           "name": "New Georgia Encyclopedia — Atlanta Race Massacre of 1906",
           "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
         },
         {
-          "name": "1906 Atlanta Race Massacre remembrance project — historical tour",
-          "url": "https://1906atlantaracemassacre.org/tour/"
+          "name": "NCCHR — Death-record research identifying Carter and Ferguson",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
+        },
+        {
+          "name": "WABE / NCCHR / PBS — Uncovering the 1906 Atlanta Race Massacre",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+        },
+        {
+          "name": "NCCHR — 2023 commemoration and documentary",
+          "url": "https://www.civilandhumanrights.org/national-center-for-civil-and-human-rights-observes-the-117th-anniversary-of-the-1906-atlanta-race-massacre-a-week-of-truth-commemoration-and-transformation/"
+        },
+        {
+          "name": "Library of Congress — Lower Peachtree Street",
+          "url": "https://www.loc.gov/item/2004676664/"
+        },
+        {
+          "name": "Library of Congress — First Congregational Church members",
+          "url": "https://www.loc.gov/item/99472436/"
         }
-      ]
+      ],
+      "overview": [
+        {
+          "title": "Before the violence: a city being built",
+          "text": "Black Atlantans were building businesses, educating children, and creating institutions in a segregated city. Political campaigns and sensational newspaper stories turned white resentment into a public threat. Understanding that setting begins with the lives and communities that existed before the attacks.",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        },
+        {
+          "title": "From downtown streets to Brownsville",
+          "text": "On September 22, white mobs attacked Black residents, streetcar passengers, and businesses downtown. Violence continued into Black neighborhoods. In Brownsville on September 24, a police raid led to a gun battle, followed by militia intervention and mass arrests of Black men.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        },
+        {
+          "title": "The work of remembering",
+          "text": "The aftermath shaped Atlanta’s racial boundaries and debates over justice. For generations, the violence received little public acknowledgment. Graves, historical records, family memory, and renewed research now help restore individual lives to the city’s history.",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        }
+      ],
+      "notice": "The five victims below and Alonzo Herndon offer different connections to this history. Herndon survived; his business was attacked. The visual archive shows the surrounding city and community, while each profile explains the evidence for its South-View connection.",
+      "timeline": [
+        {
+          "date": "SEPTEMBER 22, 1906",
+          "title": "Violence begins downtown",
+          "text": "Unsubstantiated newspaper allegations helped gather white mobs. Attacks spread through downtown streets, public transportation, and Black businesses, including Herndon’s barbershop.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        },
+        {
+          "date": "SEPTEMBER 23–24, 1906",
+          "title": "Families and neighborhoods under threat",
+          "text": "Black residents defended their homes as violence continued. Police raided Brownsville on September 24; militia then arrested more than 250 Black men.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        },
+        {
+          "date": "2006",
+          "title": "A century of remembrance",
+          "text": "Centennial commemorations began with a funeral motorcade and a memorial service at George Wilder’s grave in South-View, making the cemetery a place of public acknowledgment.",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        },
+        {
+          "date": "2023",
+          "title": "Names returned to the record",
+          "text": "Museum researchers announced confirmation of Marshall Carter and Stinson Ferguson as victims. Anniversary events and a new documentary brought this continuing work to wider audiences.",
+          "url": "https://www.civilandhumanrights.org/national-center-for-civil-and-human-rights-observes-the-117th-anniversary-of-the-1906-atlanta-race-massacre-a-week-of-truth-commemoration-and-transformation/"
+        }
+      ],
+      "groups": [
+        {
+          "title": "Lives connected to this history",
+          "nav": "Meet the people",
+          "description": "Six lives connected to South-View: five people killed in the massacre and Alonzo Herndon, who survived and whose business was targeted. Choose a name to explore their life and documented connection.",
+          "people": [
+            "georgeunionwilder",
+            "franksmith",
+            "marshallcarter",
+            "stinsonferguson",
+            "annieshepard",
+            "alonzoherndon"
+          ]
+        }
+      ],
+      "visualTitle": "The city beyond the headlines.",
+      "visualIntro": "A street, a workplace, a congregation. These images place the history among the spaces and people of everyday Atlanta. Select an image to see its full frame and source.",
+      "visuals": [
+        {
+          "file": "peachtree-early-1900s.jpg",
+          "title": "A city in motion",
+          "date": "EARLY 1900s",
+          "alt": "Lower Peachtree Street with streetcars, storefronts, and the Flatiron Building",
+          "caption": "Lower Peachtree Street in the early twentieth century. Streetcars and busy storefronts place the chapter within the city’s everyday public spaces.",
+          "credit": "Albertype Company · Library of Congress",
+          "url": "https://www.loc.gov/item/2004676664/",
+          "type": "Archival photograph",
+          "fit": "contain"
+        },
+        {
+          "file": "barbershop.jpg",
+          "title": "A place of work and ambition",
+          "date": "1903",
+          "alt": "Chairs, mirrors, and chandeliers in Alonzo Herndon’s barbershop",
+          "caption": "Herndon’s barbershop, photographed before the 1906 attack. Its interior preserves a view of a Black-owned business and the skilled work it supported.",
+          "credit": "Kenan Research Center · Digital Library of Georgia",
+          "url": "https://dlg.usg.edu/record/geh_athpc_1190",
+          "type": "Archival photograph",
+          "fit": "contain"
+        },
+        {
+          "file": "atlanta-congregation-1899.jpg",
+          "title": "Community before the headlines",
+          "date": "c. 1899–1900",
+          "alt": "Members of Atlanta’s First Congregational Church gathered outside a brick church",
+          "caption": "First Congregational Church members, photographed around the turn of the century. A glimpse of family, faith, and civic life in Black Atlanta.",
+          "credit": "Thomas E. Askew · Library of Congress",
+          "url": "https://www.loc.gov/item/99472436/",
+          "type": "Archival photograph",
+          "fit": "contain"
+        }
+      ],
+      "sourceNote": "The images document the city and community around the period; none is presented as a photograph of the attacks. Individual profiles distinguish museum-reported records, documentary testimony, and remaining gaps. Casualty estimates vary across historical accounts."
     },
     {
       "id": "children",
       "title": "Atlanta Child Murders",
       "date": "1979–1981",
-      "subtitle": "Remembering children and the communities that demanded answers",
-      "intro": "Between 1979 and 1981, a series of killings of Black children, teenagers, and young adults left Atlanta families grieving and searching for answers. This section distinguishes the documented lives of victims from the broader work of community advocates. Research on specific South-View burials is ongoing; no individual is presented as a victim without verification.",
-      "people": [],
+      "subtitle": "Remembering young lives, honoring families, and caring for Atlanta’s children",
+      "intro": "From 1979 to 1981, the disappearances and killings of Black children, teenagers, and young adults brought grief and fear to Atlanta. Families pressed for answers while neighbors joined searches and looked after children. South-View is one of the places where this history is held in individual graves and family memory.",
+      "people": [
+        "miltonharvey",
+        "yusufbell",
+        "aaronwyche",
+        "aaronjackson",
+        "patrickrogers",
+        "curtiswalker",
+        "williambarrett",
+        "jeanchildsyoung",
+        "carolyndyancey"
+      ],
       "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
         {
           "name": "FBI — Atlanta field office history",
           "url": "https://www.fbi.gov/history/field-office-histories/atlanta"
         },
         {
-          "name": "South-View Cemetery — history",
-          "url": "https://southviewcemetery.com/our-history/"
+          "name": "City of Atlanta — Children’s Eternal Flame Memorial",
+          "url": "https://www.atlantaga.gov/Home/Components/News/News/14720/672"
         },
         {
-          "name": "Smithsonian Institution Archives — International Year of the Child",
-          "url": "https://siarchives.si.edu/sites/default/files/pdfs/torch/Torch%201979/SIA_000371_1979_01.pdf"
+          "name": "Georgia Tech, Building Memories — South-View Cemetery",
+          "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+        },
+        {
+          "name": "South-View interment list — references to Bayne and Hite",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Supreme Court of Georgia — Williams v. State (1983), trial convictions",
+          "url": "https://law.justia.com/cases/georgia/supreme-court/1983/39641-1.html"
+        }
+      ],
+      "overview": [
+        {
+          "title": "An investigation is not the whole story",
+          "text": "Wayne Williams was convicted in 1982 of murdering two adults, Jimmy Ray Payne and Nathaniel Cater. He was not convicted of the children’s murders. Investigators linked other cases to him, but those attributions should not be confused with convictions. This chapter focuses on the people remembered rather than assigning a single explanation to every death.",
+          "url": "https://law.justia.com/cases/georgia/supreme-court/1983/39641-1.html"
+        },
+        {
+          "title": "Remembrance in the city",
+          "text": "Atlanta’s Children’s Eternal Flame Memorial was dedicated at City Hall in June 2023. Its curved wall, names, and gathering space honor the lives lost and the families who carried their memory forward. South-View’s graves and the city memorial offer different places for the same enduring act: remembering each person by name.",
+          "url": "https://www.atlantaga.gov/Home/Components/News/News/14720/672"
+        }
+      ],
+      "notice": "This chapter brings together young victims remembered at South-View and educators who provide broader context about children’s rights and opportunity. The educators are not presented as victims or as participants in the murder investigations.",
+      "timeline": [
+        {
+          "date": "1979",
+          "title": "The first losses",
+          "text": "The disappearances and deaths that year included Milton Harvey and nine-year-old Yusuf Bell. Their names belong to a history of families and neighborhoods as well as a criminal investigation.",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "date": "1980–1981",
+          "title": "A city searching for answers",
+          "text": "The investigation expanded as more young people disappeared. Federal investigators worked alongside local authorities; families continued to seek answers about their own children.",
+          "url": "https://www.fbi.gov/history/field-office-histories/atlanta"
+        },
+        {
+          "date": "1982",
+          "title": "Two adult-murder convictions",
+          "text": "Williams was convicted in the deaths of Payne and Cater. Those convictions did not establish a court verdict in each child’s death.",
+          "url": "https://law.justia.com/cases/georgia/supreme-court/1983/39641-1.html"
+        },
+        {
+          "date": "JUNE 27, 2023",
+          "title": "A lasting public memorial",
+          "text": "The Eternal Flame Memorial on Atlanta’s City Hall grounds created a public place to honor the victims and acknowledge those who helped with searches, recovery, and healing.",
+          "url": "https://www.atlantaga.gov/Home/Components/News/News/14720/672"
+        }
+      ],
+      "sourceNote": "The selected burial list is reported in secondary cemetery references; individual register entries have not been inspected. Ages and dates are attributed in the profiles. These are selected South-View connections, not a complete list of the Atlanta victims.",
+      "groups": [
+        {
+          "title": "Lives remembered, lives devoted to children",
+          "nav": "Meet the people",
+          "description": "Meet seven young victims remembered at South-View alongside educators Jean Childs Young and Carolyn Dunbar Yancey. The educators offer broader context about children’s opportunities; they were not victims or investigators.",
+          "people": [
+            "miltonharvey",
+            "yusufbell",
+            "aaronwyche",
+            "aaronjackson",
+            "patrickrogers",
+            "curtiswalker",
+            "williambarrett",
+            "jeanchildsyoung",
+            "carolyndyancey"
+          ]
+        }
+      ],
+      "visualTitle": "Remembrance, learning, and care.",
+      "visualIntro": "An original remembrance illustration sits alongside the faces of two educators whose work widened opportunity for children. These offer distinct ways into the chapter’s stories.",
+      "visuals": [
+        {
+          "file": "remembrance.svg",
+          "title": "A light for every life",
+          "date": "ORIGINAL ILLUSTRATION",
+          "alt": "A candle surrounded by seven points of light",
+          "caption": "A commemorative illustration for the seven young lives remembered in this archive.",
+          "credit": "Original illustration for this student archive",
+          "url": "",
+          "type": "Commemorative illustration",
+          "fit": "contain"
+        },
+        {
+          "file": "jeanchildsyoung.jpg",
+          "title": "Children’s rights, in public life",
+          "date": "JEAN CHILDS YOUNG",
+          "alt": "Portrait of educator Jean Childs Young",
+          "caption": "Young’s educational and children’s-rights work provides broader context for this chapter.",
+          "credit": "African American Registry, via South-View Preservation Foundation",
+          "url": "https://www.southviewpreservation.com/jeanchildsyoung",
+          "type": "Portrait · education context",
+          "fit": "contain"
+        },
+        {
+          "file": "carolyndyancey.jpg",
+          "title": "A voice for educational opportunity",
+          "date": "CAROLYN DUNBAR YANCEY",
+          "alt": "Portrait of Carolyn Dunbar Yancey",
+          "caption": "An educator and civic leader whose story follows the institutions that shape children’s futures.",
+          "credit": "Yancey family, via South-View Preservation Foundation",
+          "url": "https://www.southviewpreservation.com/carolyndyancey",
+          "type": "Portrait · education context",
+          "fit": "contain"
         }
       ]
     },
     {
       "id": "civil",
       "title": "Civil Rights Movement",
-      "date": "1950s–1960s and beyond",
-      "subtitle": "Leadership, voting rights, and the pursuit of equality",
-      "intro": "Atlanta was a central city in the struggle for civil rights. The lives remembered at South-View reveal how organizing, education, faith, and public service helped reshape the city and nation.",
-      "people": [],
+      "date": "Before, during & beyond the 1960s",
+      "subtitle": "The organizers, educators, and neighbors who widened the meaning of freedom",
+      "intro": "The Civil Rights Movement challenged segregation and exclusion through direct action, legal work, voter organizing, and community institutions. Atlanta’s story reaches beyond its most famous speeches. People connected to South-View helped create political power, open libraries and classrooms, and sustain the everyday work of a movement.",
+      "people": [
+        "johnlewis",
+        "rubydorissmithrobinson",
+        "johnwdobbs",
+        "gracetownshamilton",
+        "annielmcpheeters",
+        "benjaminemays",
+        "horacemannbond",
+        "lillianmileslewis",
+        "bazolineeusher",
+        "ludieclayandrews"
+      ],
       "sources": [
         {
-          "name": "City of Atlanta — Promised Land cemetery tour",
-          "url": "https://citydesign.atlantaga.gov/blog/2022/7/28/promised-land-a-tour-of-atlantas-historically-african-american-cemeteries-and-the-graves-of-civil-rights-pioneers"
+          "name": "Historic South-View Preservation Foundation — History in the Neighborhood",
+          "url": "https://www.southviewpreservation.com/historyintheneighborhood"
+        },
+        {
+          "name": "Georgia Tech — South-View Cemetery",
+          "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+        },
+        {
+          "name": "SNCC Digital Gateway — Ruby Doris Smith Robinson",
+          "url": "https://snccdigital.org/people/ruby-doris-smith-robinson/"
+        },
+        {
+          "name": "U.S. House of Representatives — John Lewis oral history",
+          "url": "https://history.house.gov/Oral-History/People/Representative-Lewis/"
         },
         {
           "name": "National Park Service — Bloody Sunday",
           "url": "https://www.nps.gov/semo/learn/historyculture/bloody-sunday.htm"
+        }
+      ],
+      "overview": [
+        {
+          "title": "Building power before the headlines",
+          "text": "Voting-rights work in Atlanta grew over decades. John Wesley Dobbs’s civic organizations and Grace Towns Hamilton’s Urban League work helped build the community networks that made later political change possible.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wesley-dobbs-1882-1961/"
         },
         {
-          "name": "South-View Cemetery — history",
-          "url": "https://southviewcemetery.com/our-history/"
+          "title": "Many routes toward equality",
+          "text": "Student organizers challenged segregation in public. Historians supported legal arguments against unequal schools. Librarians, teachers, and nurses fought restrictions on learning and professional life. These stories show distinct contributions to a long struggle rather than a claim that every person joined the same campaigns.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        }
+      ],
+      "timeline": [
+        {
+          "date": "1946",
+          "title": "Organizing voters in Atlanta",
+          "text": "Dobbs and A. T. Walden cofounded the Atlanta Negro Voters League, helping Black Atlantans organize political influence.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wesley-dobbs-1882-1961/"
+        },
+        {
+          "date": "1954",
+          "title": "Challenging school segregation",
+          "text": "Brown v. Board of Education rejected segregation in public schools. Horace Mann Bond’s historical research contributed to the NAACP legal team’s arguments.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        },
+        {
+          "date": "1960–1961",
+          "title": "Student action in public spaces",
+          "text": "Atlanta sit-ins and the Freedom Rides challenged segregation through direct action. Ruby Doris Smith Robinson participated in both, joining personal courage with collective organizing.",
+          "url": "https://snccdigital.org/people/ruby-doris-smith-robinson/"
+        },
+        {
+          "date": "1965",
+          "title": "Voting rights and representation",
+          "text": "The attack on Selma marchers, including John Lewis, helped strengthen the demand for federal voting protection. That year, Hamilton became the first Black woman elected to Georgia’s legislature.",
+          "url": "https://www.nps.gov/semo/learn/historyculture/bloody-sunday.htm"
+        }
+      ],
+      "groups": [
+        {
+          "title": "The people who widened the meaning of freedom",
+          "nav": "Meet the people",
+          "description": "Organizers, public leaders, educators, researchers, and professional pioneers connected to South-View. Choose a name to explore their distinct contribution to the wider struggle for equality.",
+          "people": [
+            "johnlewis",
+            "rubydorissmithrobinson",
+            "johnwdobbs",
+            "gracetownshamilton",
+            "annielmcpheeters",
+            "benjaminemays",
+            "horacemannbond",
+            "lillianmileslewis",
+            "bazolineeusher",
+            "ludieclayandrews"
+          ]
+        }
+      ],
+      "sourceNote": "Individual profiles provide sources for their specific contributions. Benjamin Mays is included as a former South-View burial; his remains were later moved to Morehouse.",
+      "visualTitle": "A movement, and the people who sustained it.",
+      "visualIntro": "Marching, organizing, teaching, preserving. Photographs connect the chapter’s public milestones with the people who carried the work into everyday institutions.",
+      "visuals": [
+        {
+          "file": "selma.jpg",
+          "title": "The long road toward the vote",
+          "date": "1965",
+          "alt": "Marchers on the Selma to Montgomery voting-rights march",
+          "caption": "The Selma to Montgomery march, photographed after Bloody Sunday.",
+          "credit": "Peter Pettus · Library of Congress, via National Park Service",
+          "url": "https://home.nps.gov/articles/selmatomongtomerymarch.htm",
+          "type": "Archival photograph",
+          "fit": "contain"
+        },
+        {
+          "file": "annielmcpheeters.jpg",
+          "title": "Opening doors through books",
+          "date": "ANNIE L. MCPHEETERS",
+          "alt": "Portrait of librarian Annie L. McPheeters",
+          "caption": "McPheeters’s story connects library access with the preservation of Black history.",
+          "credit": "Auburn Avenue Research Library, via South-View Preservation Foundation",
+          "url": "https://www.southviewpreservation.com/annielmcpheeters",
+          "type": "Portrait · library access",
+          "fit": "contain"
+        },
+        {
+          "file": "johnlewis.jpg",
+          "title": "From student action to public service",
+          "date": "JOHN LEWIS",
+          "alt": "Portrait of civil-rights leader John Lewis",
+          "caption": "An organizer and public servant whose life connects the student movement with Atlanta’s later civic history.",
+          "credit": "SEIU Local 721 / public domain, via South-View Preservation Foundation",
+          "url": "https://www.southviewpreservation.com/johnlewis",
+          "type": "Portrait · voting rights",
+          "fit": "contain"
         }
       ]
     }
@@ -83,43 +423,92 @@
       "id": "alonzoherndon",
       "name": "Alonzo Herndon",
       "role": "Entrepreneur & community builder",
-      "intro": "Alonzo Herndon was a barber and entrepreneur who built the company that became Atlanta Life Insurance. His work supported Black economic independence, employment, and community institutions. Begin with that fuller life before entering the events that shaped it.",
+      "intro": "Alonzo Herndon built a barbering business and the enterprise that became Atlanta Life Insurance. His story links skilled work and economic independence with family, philanthropy, and the institutions of Black Atlanta.",
       "chapters": [
         {
-          "date": "1865",
-          "title": "Freedom was a beginning.",
-          "text": "Herndon was emancipated as a child in Georgia at the end of the Civil War. Juneteenth commemorates freedom’s announcement in Texas that year. His life connects directly to emancipation, while the Texas document shown here gives broader context; it does not place him in Galveston.",
-          "url": ""
+          "date": "1880s–1905",
+          "title": "Building a business in Atlanta",
+          "text": "After learning the barbering trade, Herndon established himself in Atlanta and expanded into property and insurance. In 1905 he purchased the mutual aid association that became Atlanta Life.",
+          "url": "https://www.georgiaencyclopedia.org/articles/business-economy/alonzo-herndon-1858-1927/"
         },
         {
           "date": "SEPTEMBER 1906",
-          "title": "A livelihood in the path of violence.",
-          "text": "During the Atlanta Race Massacre, white mobs smashed the windows of Herndon’s Peachtree Street barbershop. He had already gone home. The photograph shows the shop in 1903, before the attack: a place of work and ambition within a city facing racial violence.",
-          "url": ""
+          "title": "A workplace attacked",
+          "text": "White mobs damaged the windows of Herndon’s shop. He had already left for home. The 1903 interior photograph records the business before the violence.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        },
+        {
+          "date": "BEYOND 1906",
+          "title": "Institutions that endured",
+          "text": "Herndon supported schools, charitable institutions, and Black enterprises. His son Norris later carried the insurance company forward.",
+          "url": "https://www.georgiaencyclopedia.org/articles/business-economy/alonzo-herndon-1858-1927/"
         }
       ],
       "legacy": "Herndon’s story continues through business and family. His wife Adrienne was an educator, and their son Norris carried on the insurance enterprise. He deserves to be remembered for what he built as well as what his business endured.",
-      "extraSource": "https://www.georgiaencyclopedia.org/articles/business-economy/alonzo-herndon-1858-1927/",
-      "note": "Historical-context profile, not a massacre victim. Henderson, South-View (2018), p. 5, confirms his South-View burial.",
-      "image": "alonzoherndon.jpg"
+      "note": "Herndon survived the massacre. This profile concerns the attack on his business and his broader life, rather than identifying him as a person killed in the violence.",
+      "image": "alonzoherndon.jpg",
+      "connection": "Survivor · business targeted",
+      "profileHeading": "An enterprise and a community",
+      "burial": {
+        "text": "Herndon is included in the Historic South-View Preservation Foundation’s neighborhood archive.",
+        "url": "https://www.southviewpreservation.com/alonzoherndon"
+      },
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia — Alonzo Herndon",
+          "url": "https://www.georgiaencyclopedia.org/articles/business-economy/alonzo-herndon-1858-1927/"
+        },
+        {
+          "name": "Digital Library of Georgia — Herndon’s shop, 1903",
+          "url": "https://dlg.usg.edu/record/geh_athpc_1190"
+        },
+        {
+          "name": "South-View Preservation Foundation — Alonzo Herndon",
+          "url": "https://www.southviewpreservation.com/alonzoherndon"
+        }
+      ],
+      "visualIndex": 1
     },
     "georgeunionwilder": {
       "id": "georgeunionwilder",
       "name": "George Union Wilder",
       "role": "Civil War veteran and 1906 massacre victim",
-      "intro": "George Union Wilder escaped slavery during the Civil War, served in the United States Army, and adopted “Union” as his middle name in recognition of his service. Decades later, he was killed during the Atlanta Race Massacre. His grave at South-View preserves an unusually direct historical record of the violence.",
+      "intro": "George Union Wilder escaped slavery, served in the Union Army, and lived into his seventies. His South-View marker carries his military history alongside the record of his death during the 1906 massacre.",
       "chapters": [
         {
-          "date": "1906",
-          "title": "A life ended by racial violence",
-          "text": "Wilder was killed in Brownsville during the September 1906 attacks. His grave marker commemorates both his Civil War service and his death in the massacre. Historical accounts do not establish every circumstance of his death.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "CIVIL WAR ERA",
+          "title": "Freedom and military service",
+          "text": "Wilder’s life began in slavery. His Union Army service is preserved on the marker at his South-View grave.",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        },
+        {
+          "date": "SEPTEMBER 1906",
+          "title": "Brownsville and its aftermath",
+          "text": "Wilder was killed in Brownsville. His grave later became a gathering place for the massacre’s centennial remembrance.",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
         }
       ],
       "legacy": "Wilder should be remembered not only for how he died, but also for his escape from slavery and his service in the Civil War.",
-      "extraSource": "https://1906atlantaracemassacre.org/tour/",
-      "note": "D. L. Henderson, South-View (2018), p. 5, confirms George Wilder was a Union soldier killed in the 1906 violence and buried at South-View.",
-      "image": null
+      "note": "Historical accounts differ on the exact date of Wilder’s death. This profile does not assign a precise day.",
+      "image": null,
+      "connection": "Victim · Union Army veteran",
+      "profileHeading": "A life of freedom and service",
+      "legacyHeading": "Service, survival, and remembrance",
+      "burial": {
+        "text": "The Center’s history discusses his South-View marker and the centennial memorial service held at his grave.",
+        "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+      },
+      "sources": [
+        {
+          "name": "NCCHR — Wilder’s life, grave, and centennial remembrance",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        },
+        {
+          "name": "WABE / NCCHR / PBS — South-View and the massacre",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+        }
+      ],
+      "visualIndex": 0
     },
     "franksmith": {
       "id": "franksmith",
@@ -128,70 +517,129 @@
       "intro": "Frank Smith worked as a messenger for Western Union. His ordinary working day became part of Atlanta’s tragic history when he was attacked during the violence of September 1906.",
       "chapters": [
         {
-          "date": "SEPTEMBER 22, 1906",
-          "title": "A messenger caught in the violence",
-          "text": "Smith was attacked by a white mob near the Forsyth Street bridge. His death is documented in accounts of the massacre.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "SEPTEMBER 1906",
+          "title": "A messenger at the bridge",
+          "text": "Frank Smith was a Western Union messenger killed near the Forsyth Street bridge during the violence. His working life connects this history to the movement of people through downtown Atlanta.",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
         },
         {
-          "date": "SOUTH-VIEW CEMETERY",
-          "title": "A name preserved",
-          "text": "D. L. Henderson identifies Frank Smith as a telegraph office messenger killed by white rioters and buried in South-View’s historic section (South-View, p. 5).",
-          "url": ""
+          "date": "SOUTH-VIEW",
+          "title": "Following the grave record",
+          "text": "The WABE and NCCHR documentary visits Smith’s South-View grave. A burial place and a name offer an individual point of remembrance within a larger history.",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
         }
       ],
       "legacy": "Smith’s work as a messenger connects the massacre to the everyday labor and mobility of Black Atlantans. Surviving accounts tell us more about his death than his family or aspirations; those details should not be invented.",
-      "extraSource": "",
-      "note": "Burial documented by Henderson, p. 5; further details should be checked against original records.",
-      "image": null
+      "note": "Accounts differ on the precise circumstances of the attack. No further family history is inferred here.",
+      "image": null,
+      "connection": "Victim · telegraph messenger",
+      "profileHeading": "An ordinary working life",
+      "legacyHeading": "Remembering a person at work",
+      "burial": {
+        "text": "Smith’s grave at South-View is visited in the WABE / NCCHR documentary.",
+        "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+      },
+      "sources": [
+        {
+          "name": "WABE / NCCHR / PBS — Frank Smith and South-View",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+        },
+        {
+          "name": "NCCHR — A brief history",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        }
+      ],
+      "visualIndex": 0
     },
     "marshallcarter": {
       "id": "marshallcarter",
       "name": "Marshall Carter",
-      "role": "Young student · massacre victim",
-      "intro": "Marshall Carter was a young Black Atlantan whose life was cut short during the September 1906 violence. His story centers the children and families affected by the massacre.",
+      "role": "Schoolboy · age 13",
+      "intro": "Marshall Carter was thirteen, a schoolboy living with his family on Love Street near Summerhill. County death records identify him among those killed on the massacre’s first night.",
       "chapters": [
         {
-          "date": "SEPTEMBER 1906",
-          "title": "A child’s life interrupted",
-          "text": "Research associated with the 1906 massacre remembrance project identifies Carter as a 13-year-old schoolboy who died during the attacks.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "SEPTEMBER 22, 1906",
+          "title": "A schoolboy’s future taken",
+          "text": "Carter’s surviving death record identifies his age and occupation as a schoolboy. It also places his death on the first night of the violence.",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
         },
         {
-          "date": "ARCHIVAL RESEARCH",
-          "title": "Recovering a name",
-          "text": "Historical death-certificate research has helped recover Carter’s identity and reported South-View burial. An individual cemetery record has not been independently reproduced in this student project.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "2023",
+          "title": "A name confirmed through research",
+          "text": "Researchers working with the National Center for Civil and Human Rights used county records to confirm Carter’s identity and reported his South-View burial.",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
         }
       ],
       "legacy": "Remembering Carter means recognizing a child whose future was taken. More information about his family, school, and daily life would require additional archival investigation.",
-      "extraSource": "",
-      "note": "South-View burial reported in massacre research; direct cemetery register not independently inspected.",
-      "image": null
+      "note": "This profile relies on the Center’s analysis of original county records. A separate cemetery register entry has not been inspected.",
+      "image": null,
+      "connection": "Victim · schoolboy",
+      "profileHeading": "A child’s life in the record",
+      "legacyHeading": "Keeping a young life visible",
+      "burial": {
+        "text": "The Center’s published record research identifies South-View as Carter’s burial place.",
+        "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
+      },
+      "sources": [
+        {
+          "name": "NCCHR — Carter and Ferguson death-record research",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
+        },
+        {
+          "name": "NCCHR — Names acknowledged at the 2023 commemoration",
+          "url": "https://www.civilandhumanrights.org/national-center-for-civil-and-human-rights-observes-the-117th-anniversary-of-the-1906-atlanta-race-massacre-a-week-of-truth-commemoration-and-transformation/"
+        },
+        {
+          "name": "New Georgia Encyclopedia — Event context",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        }
+      ],
+      "visualIndex": 2
     },
     "stinsonferguson": {
       "id": "stinsonferguson",
       "name": "Stinson Ferguson",
-      "role": "Atlanta resident · massacre victim",
-      "intro": "Stinson Ferguson was a young Black resident of Atlanta killed during the 1906 violence. The surviving record is fragmentary, making careful research especially important.",
+      "role": "Thurmond Street resident · age 25",
+      "intro": "Stinson Ferguson was twenty-five and lived on Thurmond Street in northwest Atlanta. Records examined by museum researchers connect his death to the first night of the massacre.",
       "chapters": [
         {
-          "date": "SEPTEMBER 1906",
-          "title": "A life lost",
-          "text": "Research on the massacre identifies Ferguson, approximately 25 years old, as a victim who died of a gunshot wound.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "SEPTEMBER 22, 1906",
+          "title": "A resident of northwest Atlanta",
+          "text": "Ferguson’s death record identifies a young Atlanta resident killed during the first night of the attacks.",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
         },
         {
-          "date": "ARCHIVAL RESEARCH",
-          "title": "Following the paper trail",
-          "text": "Death-certificate research links Ferguson to the massacre and reports a South-View burial. Further personal history and original burial documentation remain to be examined.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "date": "2023",
+          "title": "Restoring an individual name",
+          "text": "County records allowed researchers to confirm Ferguson as a victim and identify his South-View burial.",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
         }
       ],
       "legacy": "Ferguson’s name helps tell the story of the people behind the death toll. Rather than assign him undocumented accomplishments, this profile preserves the known details and identifies the gaps.",
-      "extraSource": "",
-      "note": "Burial reported in massacre research; original register entry not independently inspected.",
-      "image": null
+      "note": "The profile follows the museum’s published findings. It does not supply undocumented family details.",
+      "image": null,
+      "connection": "Victim · Atlanta resident",
+      "profileHeading": "A life recovered from records",
+      "legacyHeading": "A name in the city’s memory",
+      "burial": {
+        "text": "The Center’s record research reports Ferguson’s burial at South-View.",
+        "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
+      },
+      "sources": [
+        {
+          "name": "NCCHR — Carter and Ferguson death-record research",
+          "url": "https://www.civilandhumanrights.org/unearthing-the-past-identifying-victims-of-the-1906-atlanta-race-massacre/"
+        },
+        {
+          "name": "NCCHR — 2023 commemoration",
+          "url": "https://www.civilandhumanrights.org/national-center-for-civil-and-human-rights-observes-the-117th-anniversary-of-the-1906-atlanta-race-massacre-a-week-of-truth-commemoration-and-transformation/"
+        },
+        {
+          "name": "New Georgia Encyclopedia — Event context",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/atlanta-race-massacre-of-1906/"
+        }
+      ],
+      "visualIndex": 0
     },
     "annieshepard": {
       "id": "annieshepard",
@@ -201,21 +649,905 @@
       "chapters": [
         {
           "date": "SEPTEMBER 1906",
-          "title": "A working woman’s story",
-          "text": "Shepard’s occupation reminds us that the violence affected working people whose labor sustained Atlanta households and neighborhoods.",
-          "url": "https://1906atlantaracemassacre.org/history-legacy/"
+          "title": "A working woman’s life",
+          "text": "Shepard worked as a laundress. Her occupation places this history among the ordinary labor that sustained the city’s households.",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
         },
         {
-          "date": "SOUTH-VIEW CEMETERY",
-          "title": "A burial recovered in historical records",
-          "text": "A PBS documentary discusses Shepard’s burial in an unmarked area of South-View and shows researchers examining historical cemetery records. This profile relies on that documentary account rather than a personally inspected register entry.",
-          "url": ""
+          "date": "SOUTH-VIEW",
+          "title": "Reading the burial record",
+          "text": "In the WABE / NCCHR documentary, participants identify Shepard in South-View’s burial book and describe her grave as unmarked. That act of reading restores a name that a visitor might otherwise pass without seeing.",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
         }
       ],
       "legacy": "Shepard should be remembered as a person and worker, not only a victim. The spelling variations and unmarked burial also show why archival research matters.",
-      "extraSource": "",
-      "note": "South-View burial supported by the PBS documentary discussed in project research; original register entry not independently inspected.",
-      "image": null
+      "note": "The surname appears with variant spellings in historical accounts. The burial evidence here is attributed to the documentary rather than to a personally inspected register.",
+      "image": null,
+      "connection": "Victim · working Atlantan",
+      "profileHeading": "A name preserved in a burial book",
+      "legacyHeading": "Work, dignity, and remembrance",
+      "burial": {
+        "text": "The documentary’s South-View segment identifies her burial through the cemetery’s historical book.",
+        "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+      },
+      "sources": [
+        {
+          "name": "WABE / NCCHR / PBS — Annie Shepard’s burial record",
+          "url": "https://www.pbs.org/video/uncovering-the-1906-atlanta-race-massacre-naazr6/"
+        },
+        {
+          "name": "NCCHR — Historical overview",
+          "url": "https://www.civilandhumanrights.org/wp-content/uploads/2022/08/1906-Atlanta-Race-Massacre-A-brief-history-NCCHR42.pdf"
+        }
+      ],
+      "visualIndex": 2
+    },
+    "miltonharvey": {
+      "id": "miltonharvey",
+      "name": "Milton Harvey",
+      "role": "Age 14 · Atlanta Child Murders victim",
+      "intro": "Milton Harvey was fourteen when he disappeared in September 1979. Remembering him by name keeps a young person visible within a history too often told through a collective label. Milton Harvey repaired bicycles.",
+      "chapters": [
+        {
+          "date": "SEPTEMBER 4, 1979",
+          "title": "A young life within Atlanta’s history",
+          "text": "His disappearance belongs to the early months of the Atlanta cases. The AJC victim reference records September 4, 1979, as the date he went missing.",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Washington Post — Contemporary victim profiles, 1981",
+          "url": "https://www.washingtonpost.com/archive/national/1981/05/03/a3e9d0fb-f263-43f7-8f31-65363d744c69/"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Milton Harvey",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Milton Harvey is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "yusufbell": {
+      "id": "yusufbell",
+      "name": "Yusuf Bell",
+      "role": "Age 9 · Atlanta Child Murders victim",
+      "intro": "Yusuf Bell was nine years old when he disappeared in October 1979. He was a child whose family and community faced a loss that would become part of a citywide tragedy. Yusuf Bell enjoyed mathematics.",
+      "chapters": [
+        {
+          "date": "OCTOBER 21, 1979",
+          "title": "A young life within Atlanta’s history",
+          "text": "The AJC reference records his disappearance on October 21, 1979. His name also appears as Yusef in some accounts; this profile follows the spelling Yusuf used in that reference.",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Washington Post — Contemporary victim profiles, 1981",
+          "url": "https://www.washingtonpost.com/archive/national/1981/05/03/a3e9d0fb-f263-43f7-8f31-65363d744c69/"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Yusuf Bell",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Yusuf Bell is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "aaronwyche": {
+      "id": "aaronwyche",
+      "name": "Aaron Wyche",
+      "role": "Age 10 · Atlanta Child Murders victim",
+      "intro": "Aaron Wyche was ten years old. His name is among those remembered in the Atlanta Child Murders and in published accounts of South-View’s burials. Aaron Wyche made bird sculptures.",
+      "chapters": [
+        {
+          "date": "JUNE 23, 1980",
+          "title": "A young life within Atlanta’s history",
+          "text": "The AJC reference dates his disappearance to June 23, 1980. Contemporary UPI reporting also identifies him as ten.",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Washington Post — Contemporary victim profiles, 1981",
+          "url": "https://www.washingtonpost.com/archive/national/1981/05/03/a3e9d0fb-f263-43f7-8f31-65363d744c69/"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Aaron Wyche",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Aaron Wyche is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "aaronjackson": {
+      "id": "aaronjackson",
+      "name": "Aaron Jackson",
+      "role": "Age 9 · Atlanta Child Murders victim",
+      "intro": "Aaron Jackson was a nine-year-old Atlanta child. The small amount of personal information preserved here should not stand in for the full life his family knew.",
+      "chapters": [
+        {
+          "date": "NOVEMBER 1, 1980",
+          "title": "A young life within Atlanta’s history",
+          "text": "The AJC reference records November 1, 1980, as the date he disappeared. Contemporary reporting places him among the children whose families were living through the crisis.",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Aaron Jackson",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Aaron Jackson is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "patrickrogers": {
+      "id": "patrickrogers",
+      "name": "Patrick Rogers",
+      "role": "Age 16 · Atlanta Child Murders victim",
+      "intro": "Patrick Rogers was sixteen. His story belongs to the history of Atlanta teenagers whose families lost them during the 1979–1981 crisis. Patrick Rogers practiced karate.",
+      "chapters": [
+        {
+          "date": "NOVEMBER 10, 1980",
+          "title": "A young life within Atlanta’s history",
+          "text": "The AJC reference records his disappearance on November 10, 1980. He is one of the teenagers included in the history commonly called the Atlanta Child Murders.",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Washington Post — Contemporary victim profiles, 1981",
+          "url": "https://www.washingtonpost.com/archive/national/1981/05/03/a3e9d0fb-f263-43f7-8f31-65363d744c69/"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Patrick Rogers",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Patrick Rogers is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "curtiswalker": {
+      "id": "curtiswalker",
+      "name": "Curtis Walker",
+      "role": "Age 13 · Atlanta Child Murders victim",
+      "intro": "Curtis Walker was thirteen, according to contemporary UPI reporting. His story belongs to the families and neighborhoods who lost children during the Atlanta crisis. Curtis Walker wanted to become an artist.",
+      "chapters": [
+        {
+          "date": "FEBRUARY 1981",
+          "title": "A young life within Atlanta’s history",
+          "text": "Walker disappeared in February 1981. Contemporary reporting identifies him as thirteen; a later AJC gallery gives a different age. This profile follows the contemporary report and makes that difference visible.",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Washington Post — Contemporary victim profiles, 1981",
+          "url": "https://www.washingtonpost.com/archive/national/1981/05/03/a3e9d0fb-f263-43f7-8f31-65363d744c69/"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering Curtis Walker",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "Curtis Walker is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image."
+    },
+    "williambarrett": {
+      "id": "williambarrett",
+      "name": "William Barrett",
+      "role": "Age 17 · Atlanta Child Murders victim",
+      "intro": "William Barrett was seventeen. A teenager nearing adulthood, he is remembered among the young people whose deaths reshaped life for Atlanta families.",
+      "chapters": [
+        {
+          "date": "MAY 1981",
+          "title": "A young life within Atlanta’s history",
+          "text": "Contemporary UPI reporting identifies Barrett as seventeen and describes his death in May 1981, near the end of the period associated with the Atlanta cases.",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        }
+      ],
+      "legacy": "This remembrance preserves a name and the details supported by the sources below. More of this life—family relationships, friendships, school days, and hopes—belongs to records and memories beyond the material gathered here.",
+      "sources": [
+        {
+          "name": "Atlanta Journal-Constitution — Victim reference gallery",
+          "url": "https://www.ajc.com/news/crime--law/atlanta-child-murders-who-were-the-victims/JzKvG4Yd4i2l0QGiURZ5XI/"
+        },
+        {
+          "name": "UPI — Contemporary reporting, May 18, 1981",
+          "url": "https://www.upi.com/amp/Archives/1981/05/18/Police-eliminate-suspects-in-child-slayings/7730359006400/"
+        },
+        {
+          "name": "South-View interment list — secondary cemetery references",
+          "url": "https://en.wikipedia.org/wiki/South-View_Cemetery"
+        },
+        {
+          "name": "Williams v. State (1983) — differing age in case summary",
+          "url": "https://law.justia.com/cases/georgia/supreme-court/1983/39641-1.html"
+        }
+      ],
+      "image": null,
+      "connection": "A young life remembered",
+      "profileHeading": "Remembering William Barrett",
+      "legacyHeading": "Keeping a name in memory",
+      "burial": {
+        "text": "William Barrett is listed among the Atlanta victims buried at South-View in a secondary interment list citing John S. Bayne’s Atlanta’s South-View Cemetery (2016) and Michelle S. Hite’s cemetery scholarship. An individual cemetery register entry has not been inspected for this profile.",
+        "url": "https://en.wikipedia.org/wiki/South-View_Cemetery",
+        "label": "Read the interment list and its references ↗"
+      },
+      "sourceNote": "No verified portrait is reproduced here. Initials identify the profile; they are not an archival image.",
+      "note": "Contemporary UPI reporting and the AJC reference give his age as seventeen; the 1983 Georgia Supreme Court opinion calls him sixteen. This profile follows the reporting and records the discrepancy."
+    },
+    "jeanchildsyoung": {
+      "id": "jeanchildsyoung",
+      "name": "Jean Childs Young",
+      "role": "Educator & children’s-rights advocate",
+      "intro": "Jean Childs Young worked to make education part of children’s daily lives, in classrooms and at home. Her story offers a wider view of Atlanta’s work for children alongside this chapter of loss.",
+      "chapters": [
+        {
+          "date": "1970",
+          "title": "Supporting parents as teachers",
+          "text": "Young wrote Bridging the Gap to help parents understand child development and support learning at home. Her work on early-childhood curriculum placed families within the educational process.",
+          "url": "https://www.southviewpreservation.com/jeanchildsyoung"
+        },
+        {
+          "date": "1979",
+          "title": "A national voice for children",
+          "text": "President Jimmy Carter appointed Young to chair the U.S. National Commission for the International Year of the Child. This work addressed children’s well-being and educational opportunity at a national level, during the same year the Atlanta crisis began. It is a documented advocacy role, not a claim that she worked on the murder cases.",
+          "url": "https://www.govinfo.gov/content/pkg/CPRT-95SPRT35352/pdf/CPRT-95SPRT35352.pdf"
+        },
+        {
+          "date": "EDUCATION & OPPORTUNITY",
+          "title": "Paths into learning",
+          "text": "She helped launch Atlanta Junior College and supported institutions including the APEX Museum and SciTrek. These are educational contributions, not evidence of a role in the murder investigations.",
+          "url": "https://www.southviewpreservation.com/jeanchildsyoung"
+        }
+      ],
+      "legacy": "Young’s work is remembered through scholarships, awards, and the Atlanta middle school named for her. Her legacy centers children’s opportunities and the families who nurture them.",
+      "sources": [
+        {
+          "name": "South-View Preservation Foundation — Jean Childs Young",
+          "url": "https://www.southviewpreservation.com/jeanchildsyoung"
+        },
+        {
+          "name": "Canopy Atlanta — Family connections to South-View",
+          "url": "https://canopyatlanta.org/2023/11/17/atlantans-share-their-familial-connections-to-south-view-cemetery/"
+        },
+        {
+          "name": "U.S. Senate — International Year of the Child commission report, 1978",
+          "url": "https://www.govinfo.gov/content/pkg/CPRT-95SPRT35352/pdf/CPRT-95SPRT35352.pdf"
+        }
+      ],
+      "image": "jeanchildsyoung.jpg",
+      "connection": "Education · broader context",
+      "burial": {
+        "text": "Young’s daughter describes her mother’s burial at South-View in Canopy Atlanta’s account of family connections to the cemetery.",
+        "url": "https://canopyatlanta.org/2023/11/17/atlantans-share-their-familial-connections-to-south-view-cemetery/"
+      },
+      "note": "Included for her work in education and children’s rights. No specific role in the Child Murders response or investigation is established by the sources used here.",
+      "imageCredit": "African American Registry, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/jeanchildsyoung",
+      "visualIndex": 1
+    },
+    "carolyndyancey": {
+      "id": "carolyndyancey",
+      "name": "Carolyn Dunbar Yancey",
+      "role": "Teacher, school-board member & higher-education leader",
+      "intro": "Carolyn Dunbar Yancey began as a public-school teacher and brought education into civic leadership. Her career connects this chapter to a broader question: who has the power to shape children’s opportunities?",
+      "chapters": [
+        {
+          "date": "1982",
+          "title": "A voice on the school board",
+          "text": "Yancey was elected to the Atlanta Board of Education in 1982, after the 1979–1981 period covered by this chapter. The Atlanta History Center preserves records of her educational and civic work.",
+          "url": "https://album.atlantahistorycenter.com/digital/collection/p17222coll55"
+        },
+        {
+          "date": "1985",
+          "title": "A first in higher education",
+          "text": "Yancey became the first Black woman appointed to the University System of Georgia’s Board of Regents. Her civic affiliations included the NAACP and League of Women Voters.",
+          "url": "https://usg.edu/regents/past-regents/"
+        }
+      ],
+      "legacy": "Her work spanned public schools, universities, and civic organizations. It illustrates how advocacy for children can continue through educational policy and public service.",
+      "sources": [
+        {
+          "name": "South-View Preservation Foundation — Carolyn D. Yancey",
+          "url": "https://www.southviewpreservation.com/carolyndyancey"
+        },
+        {
+          "name": "Atlanta History Center — Carolyn Dunbar Yancey papers",
+          "url": "https://album.atlantahistorycenter.com/digital/collection/p17222coll55"
+        },
+        {
+          "name": "University System of Georgia — Past Regents (1985–1992 service)",
+          "url": "https://usg.edu/regents/past-regents/"
+        }
+      ],
+      "image": "carolyndyancey.jpg",
+      "connection": "Education · broader context",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/carolyndyancey",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "note": "A contextual education profile. Her inclusion does not claim that she was a victim, investigator, or organizer of the crisis response.",
+      "imageCredit": "Yancey family, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/carolyndyancey",
+      "visualIndex": 2
+    },
+    "johnlewis": {
+      "id": "johnlewis",
+      "name": "John Lewis",
+      "role": "SNCC leader, voting-rights organizer & U.S. representative",
+      "intro": "John Lewis carried a commitment to nonviolent protest from the student movement into public office. His life connects sit-ins, the struggle for voting rights, and decades representing Atlanta in Congress.",
+      "chapters": [
+        {
+          "date": "1963–1966",
+          "title": "Student organizing",
+          "text": "As chairman of the Student Nonviolent Coordinating Committee, Lewis helped lead a movement that treated young people as organizers of social change.",
+          "url": "https://history.house.gov/Oral-History/People/Representative-Lewis/"
+        },
+        {
+          "date": "MARCH 7, 1965",
+          "title": "Bloody Sunday",
+          "text": "Lewis helped lead voting-rights marchers across Selma’s Edmund Pettus Bridge. State troopers attacked the marchers. The violence helped build national pressure for federal voting protections.",
+          "url": "https://www.nps.gov/semo/learn/historyculture/bloody-sunday.htm"
+        },
+        {
+          "date": "1987–2020",
+          "title": "From protest to Congress",
+          "text": "After service on Atlanta’s city council, Lewis represented Georgia’s Fifth District in the U.S. House from January 1987 until his death in July 2020.",
+          "url": "https://history.house.gov/Oral-History/People/Representative-Lewis/"
+        }
+      ],
+      "legacy": "Lewis linked public service with the organizing traditions of the movement. His recorded recollections preserve his own account of Bloody Sunday and the relationship between protest and legislation.",
+      "sources": [
+        {
+          "name": "U.S. House of Representatives — Biography and oral history",
+          "url": "https://history.house.gov/Oral-History/People/Representative-Lewis/"
+        },
+        {
+          "name": "National Park Service — Bloody Sunday",
+          "url": "https://www.nps.gov/semo/learn/historyculture/bloody-sunday.htm"
+        },
+        {
+          "name": "South-View Preservation Foundation — John Lewis",
+          "url": "https://www.southviewpreservation.com/johnlewis"
+        }
+      ],
+      "image": "johnlewis.jpg",
+      "connection": "Direct participant · voting rights",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/johnlewis",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "imageCredit": "SEIU Local 721 / public domain, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/johnlewis",
+      "visualIndex": 2
+    },
+    "lillianmileslewis": {
+      "id": "lillianmileslewis",
+      "name": "Lillian Miles Lewis",
+      "role": "Librarian, educator & civic partner",
+      "intro": "Lillian Miles Lewis built a career in education and international exchange. Her contributions to Atlanta’s civic life included librarianship, university leadership, and support for the political work she shared with John Lewis.",
+      "chapters": [
+        {
+          "date": "1960s",
+          "title": "Education across borders",
+          "text": "After earning a graduate degree in library science, Miles taught in Nigeria through the Peace Corps. In 1965 she became a librarian at Atlanta University.",
+          "url": "https://www.johnandlillianmileslewisfoundation.org/lillianmileslewis"
+        },
+        {
+          "date": "1980s–2003",
+          "title": "Academic and political work",
+          "text": "She supported John Lewis’s city-council and congressional campaigns while holding leadership positions at Clark Atlanta University, including in international affairs and research administration.",
+          "url": "https://www.johnandlillianmileslewisfoundation.org/lillianmileslewis"
+        }
+      ],
+      "legacy": "Remembering Lillian in her own right makes visible the academic, cultural, and organizational work that sustained Atlanta’s civic networks. Her archival collection preserves another perspective on that history.",
+      "sources": [
+        {
+          "name": "John and Lillian Miles Lewis Foundation — Lillian’s biography",
+          "url": "https://www.johnandlillianmileslewisfoundation.org/lillianmileslewis"
+        },
+        {
+          "name": "AUC Woodruff Library — Lillian Lewis collection",
+          "url": "https://findingaids.auctr.edu/repositories/2/resources/174"
+        },
+        {
+          "name": "South-View Preservation Foundation — Lillian Miles Lewis",
+          "url": "https://www.southviewpreservation.com/lillianmileslewis"
+        }
+      ],
+      "image": "lillianmileslewis.jpg",
+      "connection": "Education & civic networks",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/lillianmileslewis",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "imageCredit": "FindAGrave contributor, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/lillianmileslewis"
+    },
+    "johnwdobbs": {
+      "id": "johnwdobbs",
+      "name": "John Wesley Dobbs",
+      "role": "Voting-rights organizer & Sweet Auburn civic leader",
+      "intro": "A railway mail clerk and devoted reader, John Wesley Dobbs became a major voice for Black political participation in Atlanta. His organizing helped lay the foundations for the city’s later civil-rights victories.",
+      "chapters": [
+        {
+          "date": "1936",
+          "title": "Building political organization",
+          "text": "Dobbs founded the Atlanta Civic and Political League. He promoted voter registration in churches, Masonic halls, and public spaces, treating the ballot as a tool for community power.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wesley-dobbs-1882-1961/"
+        },
+        {
+          "date": "1946",
+          "title": "Working together for the vote",
+          "text": "With attorney A. T. Walden, he cofounded the Atlanta Negro Voters League. Organizing across the city helped turn registered voters into a force that officials had to reckon with.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wesley-dobbs-1882-1961/"
+        }
+      ],
+      "legacy": "Known as the unofficial mayor of Auburn Avenue, Dobbs combined civic organizing with family life. He and Irene Thompson Dobbs raised six daughters, all graduates of Spelman College. His example shows the work behind political change before the movement’s best-known marches.",
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia — John Wesley Dobbs",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/john-wesley-dobbs-1882-1961/"
+        },
+        {
+          "name": "South-View Preservation Foundation — John W. Dobbs",
+          "url": "https://www.southviewpreservation.com/johnwdobbs"
+        },
+        {
+          "name": "Georgia Tech — South-View and its residents",
+          "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+        }
+      ],
+      "image": "johnwdobbs.jpg",
+      "connection": "Direct participant · voter organizing",
+      "burial": {
+        "text": "Georgia Tech’s South-View history identifies Dobbs among the cemetery’s residents.",
+        "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+      },
+      "imageCredit": "Historic South-View Preservation Foundation neighborhood archive",
+      "imageSource": "https://www.southviewpreservation.com/johnwdobbs"
+    },
+    "gracetownshamilton": {
+      "id": "gracetownshamilton",
+      "name": "Grace Towns Hamilton",
+      "role": "Urban League leader & pioneering Georgia legislator",
+      "intro": "Grace Towns Hamilton pursued equality through the institutions that shape daily life: schools, housing, health care, and government. Her career connected community research with political representation.",
+      "chapters": [
+        {
+          "date": "1943–1961",
+          "title": "Community needs into public action",
+          "text": "As executive director of the Atlanta Urban League, Hamilton worked on housing, health care, education, and voting rights for Black Atlantans.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/grace-towns-hamilton-1907-1992/"
+        },
+        {
+          "date": "1965",
+          "title": "Opening the legislature",
+          "text": "Hamilton became the first Black woman elected to the Georgia General Assembly. She brought years of community advocacy into state government.",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/grace-towns-hamilton-1907-1992/"
+        },
+        {
+          "date": "1973",
+          "title": "Representation in city government",
+          "text": "She helped design Atlanta’s new city charter, which increased Black representation on the city council through changes to its electoral structure.",
+          "url": "https://dlg.usg.edu/record/geh_byd_353"
+        }
+      ],
+      "legacy": "Hamilton’s story connects the right to vote to the rules that determine whose votes carry influence. Her work in public office extended the freedom struggle into redistricting and city governance.",
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia — Grace Towns Hamilton",
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/grace-towns-hamilton-1907-1992/"
+        },
+        {
+          "name": "Atlanta History Center / DLG — Hamilton and the city charter",
+          "url": "https://dlg.usg.edu/record/geh_byd_353"
+        },
+        {
+          "name": "DeKalb Clerk — Grace Towns Hamilton biography and burial",
+          "url": "https://www.dksuperiorclerk.com/mt-content/uploads/2022/02/black-history-series-grace-towns-hamilton.pdf"
+        }
+      ],
+      "image": "gracetownshamilton.jpg",
+      "connection": "Direct participant · representation",
+      "burial": {
+        "text": "The DeKalb County Clerk’s historical biography records her burial at South-View in 1992.",
+        "url": "https://www.dksuperiorclerk.com/mt-content/uploads/2022/02/black-history-series-grace-towns-hamilton.pdf"
+      },
+      "imageCredit": "Wikimedia Commons, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/gracetownshamilton"
+    },
+    "annielmcpheeters": {
+      "id": "annielmcpheeters",
+      "name": "Annie L. McPheeters",
+      "role": "Librarian, historian & advocate for equal access",
+      "intro": "Annie L. McPheeters made books and Black history more accessible to Atlanta readers. Her work reminds us that civil rights included entry to libraries and the ability to find one’s own community in the historical record.",
+      "chapters": [
+        {
+          "date": "1934–1936",
+          "title": "Building a public collection",
+          "text": "Arriving at Atlanta’s Auburn Branch in 1934, McPheeters developed adult-education programs and began the Negro History Collection. In 1936 she became one of the city’s first Black professional librarians.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/annie-l-mcpheeters-1908-1994/"
+        },
+        {
+          "date": "1959",
+          "title": "Challenging library segregation",
+          "text": "She worked with Black advocacy groups that won desegregation of Atlanta’s public library in 1959. Staff integration took longer, showing how access and employment presented different barriers.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/annie-l-mcpheeters-1908-1994/"
+        },
+        {
+          "date": "1966–1975",
+          "title": "Opening another professional door",
+          "text": "At Georgia State College she became its first Black reference librarian. Her books and oral history also documented Black community life and library service.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/annie-l-mcpheeters-1908-1994/"
+        }
+      ],
+      "legacy": "The collection she helped create became a foundation for the Auburn Avenue Research Library. Preserving and sharing Black history was both her profession and a form of public service.",
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia — Annie L. McPheeters",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/annie-l-mcpheeters-1908-1994/"
+        },
+        {
+          "name": "Georgia State University — McPheeters oral history, 1992",
+          "url": "https://digitalcollections.library.gsu.edu/digital/api/collection/ggdp/id/6088/download"
+        },
+        {
+          "name": "South-View Preservation Foundation — Annie L. McPheeters",
+          "url": "https://www.southviewpreservation.com/annielmcpheeters"
+        }
+      ],
+      "image": "annielmcpheeters.jpg",
+      "connection": "Direct participant · library access",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/annielmcpheeters",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "imageCredit": "Auburn Avenue Research Library, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/annielmcpheeters",
+      "visualIndex": 1
+    },
+    "benjaminemays": {
+      "id": "benjaminemays",
+      "name": "Benjamin E. Mays",
+      "role": "Educator, minister & mentor to movement leaders",
+      "intro": "Benjamin E. Mays saw education as preparation for a life of responsibility. As president of Morehouse College, he helped shape generations of Black leaders, including his student Martin Luther King Jr.",
+      "chapters": [
+        {
+          "date": "1940–1967",
+          "title": "A college as a place for leadership",
+          "text": "Mays led Morehouse for twenty-seven years. His teaching and public opposition to segregation joined intellectual work to the struggle for equality.",
+          "url": "https://mmuf.unm.edu/program-overview/dr.-benjamin-mays-bio.html"
+        },
+        {
+          "date": "1963 & 1968",
+          "title": "A voice within the movement",
+          "text": "He gave the benediction at the 1963 March on Washington and a eulogy at King’s funeral in 1968. His role joined mentorship with public moral leadership.",
+          "url": "https://mmuf.unm.edu/program-overview/dr.-benjamin-mays-bio.html"
+        },
+        {
+          "date": "AFTER MOREHOUSE",
+          "title": "Public education in Atlanta",
+          "text": "Mays later led the Atlanta Board of Education. His papers preserve correspondence and records from the city’s continuing struggles over school desegregation.",
+          "url": "https://findingaids.auctr.edu/repositories/2/archival_objects/89014"
+        }
+      ],
+      "legacy": "Mays’s work as a minister, scholar, college president, and school-board leader helped define education as a responsibility to the wider community.",
+      "sources": [
+        {
+          "name": "University of New Mexico — Benjamin Mays biography",
+          "url": "https://mmuf.unm.edu/program-overview/dr.-benjamin-mays-bio.html"
+        },
+        {
+          "name": "Georgia Tech — Mays’s burial and reinterment",
+          "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+        },
+        {
+          "name": "AUC Woodruff Library — Mays school-board papers",
+          "url": "https://findingaids.auctr.edu/repositories/2/archival_objects/89014"
+        }
+      ],
+      "image": "benjaminemays.jpg",
+      "connection": "Movement mentor · former burial",
+      "burial": {
+        "title": "A historical South-View connection",
+        "text": "Mays was buried at South-View in 1984. His remains and those of his wife, Sadie Gray Mays, were later reinterred on the Morehouse campus. This profile marks a former burial, not a present-day grave at South-View.",
+        "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+      },
+      "imageCredit": "Historic South-View Preservation Foundation neighborhood archive",
+      "imageSource": "https://www.southviewpreservation.com/benjaminemays"
+    },
+    "horacemannbond": {
+      "id": "horacemannbond",
+      "name": "Horace Mann Bond",
+      "role": "Historian, college leader & education researcher",
+      "intro": "Horace Mann Bond challenged racial inequality through scholarship and college leadership. He studied the history and funding of Black education and helped bring that research into the legal struggle against segregation.",
+      "chapters": [
+        {
+          "date": "1939–1945",
+          "title": "Expanding higher education",
+          "text": "At Fort Valley, Bond strengthened the college’s finances and guided its transition to a four-year institution. He later became Lincoln University’s first Black president.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        },
+        {
+          "date": "1953–1954",
+          "title": "Research for Brown",
+          "text": "Bond joined historians conducting research for the NAACP Legal Defense and Educational Fund. Their work supported arguments in Brown v. Board of Education, the 1954 Supreme Court decision against public-school segregation.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        },
+        {
+          "date": "1957–1971",
+          "title": "Returning to Atlanta",
+          "text": "He served as dean of Atlanta University’s School of Education and later directed its Bureau of Educational and Social Research. His own freedom-struggle contributions should be remembered alongside those of his son Julian.",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        }
+      ],
+      "legacy": "Bond’s career shows how research and institution-building could support civil-rights action. His work connected the unequal conditions of schooling to national questions of justice.",
+      "sources": [
+        {
+          "name": "New Georgia Encyclopedia — Horace Mann Bond",
+          "url": "https://www.georgiaencyclopedia.org/articles/education/horace-mann-bond-1904-1972/"
+        },
+        {
+          "name": "South-View Preservation Foundation — Horace Mann Bond",
+          "url": "https://www.southviewpreservation.com/horacemannbond"
+        },
+        {
+          "name": "Digital Library of Georgia — Bond at Fort Valley",
+          "url": "https://dlg.usg.edu/record/nge_ngen_m-9860"
+        }
+      ],
+      "image": "horacemannbond.jpg",
+      "connection": "Direct contribution · school equality",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/horacemannbond",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "imageCredit": "Philadelphia Citizen, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/horacemannbond"
+    },
+    "rubydorissmithrobinson": {
+      "id": "rubydorissmithrobinson",
+      "name": "Ruby Doris Smith Robinson",
+      "role": "Atlanta student activist, Freedom Rider & SNCC organizer",
+      "intro": "Ruby Doris Smith Robinson helped turn protest into sustained organizing. From Atlanta sit-ins to the everyday demands of running SNCC’s office, she made it possible for organizers in the field to do their work.",
+      "chapters": [
+        {
+          "date": "1960–1961",
+          "title": "From Spelman to direct action",
+          "text": "As a Spelman student she joined Atlanta sit-ins, attended SNCC’s founding conference, and participated in the Freedom Rides. Her jail-no-bail protest in Rock Hill put personal commitment behind the movement’s strategy.",
+          "url": "https://snccdigital.org/people/ruby-doris-smith-robinson/"
+        },
+        {
+          "date": "1963–1966",
+          "title": "The work that kept a movement moving",
+          "text": "As administrative secretary she coordinated resources and helped organize vehicles for field staff. In 1966 she became SNCC’s executive secretary—the only woman to hold that position.",
+          "url": "https://snccdigital.org/people/ruby-doris-smith-robinson/"
+        },
+        {
+          "date": "1967",
+          "title": "A life remembered in the archive",
+          "text": "Robinson died at twenty-five. The AUC Woodruff Library preserves her South-View cemetery record card dated October 14, 1967, a direct link between a movement life and this burial ground.",
+          "url": "https://dlg.usg.edu/record/auu_auc-078_auc-078-0137"
+        }
+      ],
+      "legacy": "Her legacy joins courage in public protest to the practical skills of organizing. The movement depended on people who could manage resources, sustain colleagues, and keep commitments through difficult work.",
+      "sources": [
+        {
+          "name": "SNCC Digital Gateway — Ruby Doris Smith Robinson",
+          "url": "https://snccdigital.org/people/ruby-doris-smith-robinson/"
+        },
+        {
+          "name": "AUC Woodruff Library / DLG — Cemetery Record Card, 1967",
+          "url": "https://dlg.usg.edu/record/auu_auc-078_auc-078-0137"
+        },
+        {
+          "name": "SNCC — Atlanta office personnel credentials, circa 1964",
+          "url": "https://snccdigital.org/wp-content/uploads/digitalcollections/64_sncc_staff-jobs.pdf"
+        }
+      ],
+      "image": null,
+      "connection": "Direct participant · student organizing",
+      "burial": {
+        "text": "Her cemetery record card from South-View survives in the Mary Ann Smith Wilson–Ruby Doris Smith Robinson Collection at the AUC Woodruff Library.",
+        "url": "https://dlg.usg.edu/record/auu_auc-078_auc-078-0137"
+      }
+    },
+    "bazolineeusher": {
+      "id": "bazolineeusher",
+      "name": "Bazoline E. Usher",
+      "role": "Teacher, school administrator & youth leader",
+      "intro": "Bazoline Usher spent decades widening opportunity for Black children in Atlanta. Her career shows the educational and community work that preceded, and continued alongside, the midcentury freedom movement.",
+      "chapters": [
+        {
+          "date": "1915–1943",
+          "title": "Leadership within segregated schools",
+          "text": "Usher returned to teach in Atlanta in 1915 and held leadership positions at Booker T. Washington High School and David T. Howard Grammar School. She worked within a segregated system while expanding what it offered Black students.",
+          "url": "https://dca.georgia.gov/document/newsletters/april-2016-reflectionspdf/download"
+        },
+        {
+          "date": "1943",
+          "title": "Scouting for Black girls",
+          "text": "Usher helped organize Atlanta’s first Black Girl Scout troops and recruited Black troop leaders. Creating access to activities outside school was another way to support girls’ confidence and opportunity.",
+          "url": "https://dca.georgia.gov/document/newsletters/april-2016-reflectionspdf/download"
+        }
+      ],
+      "legacy": "Her classroom leadership and youth work are part of the longer history of educational opportunity. This profile presents that contribution without assigning her an undocumented role in a particular march or campaign.",
+      "sources": [
+        {
+          "name": "Georgia Historic Preservation Division — Bazoline Usher",
+          "url": "https://dca.georgia.gov/document/newsletters/april-2016-reflectionspdf/download"
+        },
+        {
+          "name": "South-View Preservation Foundation — Bazoline E. Usher",
+          "url": "https://www.southviewpreservation.com/bazolineeusher"
+        },
+        {
+          "name": "Girl Scouts — Black History Month alumnae",
+          "url": "https://www.girlscoutsoc.org/content/dam/girlscoutsoc-redesign/documents/EventFlyers/BHM%20GS%20Alums.pdf"
+        }
+      ],
+      "image": "bazolineeusher.jpg",
+      "connection": "Education · foundations of opportunity",
+      "burial": {
+        "text": "Featured in the Historic South-View Preservation Foundation’s History in the Neighborhood archive of people connected to this cemetery.",
+        "url": "https://www.southviewpreservation.com/bazolineeusher",
+        "label": "Read the foundation’s profile ↗"
+      },
+      "imageCredit": "Wikimedia Commons, as credited by the foundation",
+      "imageSource": "https://www.southviewpreservation.com/bazolineeusher"
+    },
+    "ludieclayandrews": {
+      "id": "ludieclayandrews",
+      "name": "Ludie Clay Andrews",
+      "role": "Nurse educator & advocate for equal professional rights",
+      "intro": "Ludie Clay Andrews challenged barriers that kept qualified Black nurses from professional recognition. Her work connects the freedom struggle to the hospitals, training schools, and licensing systems that shaped working lives.",
+      "chapters": [
+        {
+          "date": "1910s–1920",
+          "title": "Equal access to registration",
+          "text": "Andrews fought for Black nurses to take the same state registration examination as white nurses. She refused an individual exception and pursued an opportunity that other qualified nurses could share.",
+          "url": "https://www.georgiawomen.org/ludie-clay-andrews"
+        },
+        {
+          "date": "NURSING EDUCATION",
+          "title": "Training future professionals",
+          "text": "She organized nurse training at Grady and later led the MacVicar infirmary serving Atlanta’s Black colleges. Teaching and professional advocacy reinforced one another throughout her career.",
+          "url": "https://www.georgiawomen.org/ludie-clay-andrews"
+        }
+      ],
+      "legacy": "Her fight for equal examination rights created paths into professional work. Nursing institutions continue to recognize her place in Georgia’s public-health and education history.",
+      "sources": [
+        {
+          "name": "Georgia Women of Achievement — Ludie Clay Andrews",
+          "url": "https://www.georgiawomen.org/ludie-clay-andrews"
+        },
+        {
+          "name": "Morehouse School of Medicine — Nursing program history",
+          "url": "https://msm.smartcatalogiq.com/en/2025-2026/2025-2026-morehouse-school-of-medicine-student-handbook/graduate-education-in-nursing/about-the-nursing-program"
+        },
+        {
+          "name": "Georgia Tech — South-View and its residents",
+          "url": "https://leading-edge.iac.gatech.edu/building-memories/southview-cemetery/"
+        }
+      ],
+      "image": "ludieclayandrews.jpg",
+      "connection": "Professional rights · earlier foundations",
+      "burial": {
+        "text": "Georgia Women of Achievement records Andrews’s South-View burial following her death in 1969.",
+        "url": "https://www.georgiawomen.org/ludie-clay-andrews"
+      },
+      "imageCredit": "Historic South-View Preservation Foundation neighborhood archive",
+      "imageSource": "https://www.southviewpreservation.com/ludieclayandrews"
     }
   }
 }
