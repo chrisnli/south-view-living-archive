@@ -22,7 +22,7 @@ Edit `dist/content.json`, then run `node scripts/build-data.mjs`. The script che
 
 Each event has a three-image visual archive with captions, dates, credits, and source links. Select an image to open an uncropped viewer; use its previous/next buttons or Left/Right arrow keys to browse. Complete biographies include a contextual image from their chapter. The 1906 page adds Library of Congress photographs of early Peachtree Street and First Congregational Church members. These show the surrounding city and community, not the attacks themselves.
 
-The header's Motion switch follows the device's reduced-motion preference by default. An explicit choice overrides it for the current browser tab/session. With motion off, the content and controls remain available without animated effects. View Transitions have a simpler fallback for browsers without that API. No animation library or additional build step is required.
+Motion runs automatically throughout the site without an on-page toggle or saved on/off setting. View Transitions have a simpler fallback for browsers without that API. No animation library or additional build step is required.
 
 ## Research and attribution
 
