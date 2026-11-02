@@ -1,27 +1,8 @@
 /* One persistent landscape connects the archive's pages and reading sections. */
 (() => {
-  const systemReduced = window.matchMedia('(prefers-reduced-motion: reduce)');
-  let savedMotion;
-  try { savedMotion = sessionStorage.getItem('southview-motion'); } catch { /* Storage can be disabled. */ }
-  let motionEnabled = savedMotion ? savedMotion === 'on' : !systemReduced.matches;
-  const reduced = {get matches() { return !motionEnabled; }};
-  const motionControl = document.createElement('button');
-  motionControl.className = 'motion-control';
-  motionControl.title = 'Turn the flowing background and transitions on or off';
-  document.querySelector('.header nav').append(motionControl);
-  function setMotion(enabled, save = false) {
-    motionEnabled = enabled;
-    document.documentElement.classList.toggle('motion-enabled', enabled);
-    document.documentElement.classList.toggle('motion-disabled', !enabled);
-    motionControl.setAttribute('aria-pressed', String(enabled));
-    motionControl.setAttribute('aria-label', `Motion ${enabled ? 'on' : 'off'}`);
-    motionControl.innerHTML = `<span class="motion-indicator" aria-hidden="true"></span>Motion ${enabled ? 'on' : 'off'}`;
-    if (save) {
-      savedMotion = enabled ? 'on' : 'off';
-      try { sessionStorage.setItem('southview-motion', savedMotion); } catch { /* Keep the choice for this page. */ }
-    }
-  }
-  setMotion(motionEnabled);
+  // Motion is part of the archive experience, without a visitor-facing switch.
+  const reduced = {matches: false};
+  document.documentElement.classList.add('motion-enabled');
   let observer;
   let frame;
   let origin = {x: innerWidth / 2, y: innerHeight / 2};
@@ -72,19 +53,6 @@
   function requestPaint() { if (!frame) frame = requestAnimationFrame(paint); }
   window.addEventListener('scroll', requestPaint, {passive: true});
   window.addEventListener('resize', requestPaint);
-  function refreshMotion() {
-    if (!motionEnabled) activeTransition?.skipTransition();
-    document.querySelectorAll('.section-reveal').forEach(el => el.classList.add('is-visible'));
-    requestPaint();
-  }
-  systemReduced.addEventListener('change', () => {
-    if (!savedMotion) setMotion(!systemReduced.matches);
-    refreshMotion();
-  });
-  motionControl.addEventListener('click', () => {
-    setMotion(!motionEnabled, true);
-    refreshMotion();
-  });
   new ResizeObserver(requestPaint).observe(document.getElementById('main'));
 
   document.addEventListener('click', event => {
